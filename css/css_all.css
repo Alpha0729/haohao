@@ -1,0 +1,92 @@
+.cube_50{
+    width: 50px;
+    height: 50px;
+}
+
+.color_cf{
+    color: #cf101c;
+}
+.margin_top30{
+    margin-top: 30px;
+}
+.margin_top10{
+    margin-top: 10px;
+}
+
+.margin_left10{
+    margin-left: 10px;
+}
+.padding10{
+   padding: 10px;
+}
+.padding_tb10{
+    padding:10px 0px;
+}
+.padding_LR10{
+    padding:0 10px;
+}
+
+.padding_LR20{
+    padding:0 20px;
+}
+.padding_r10{
+    padding-right: 10px;
+    font-style: normal;
+}
+.float_left{
+    float: left;
+}
+.float_right{
+    float: right;
+}
+
+.header_top{
+    position: relative;
+    background-color: #cf101c;
+    height: 30px;
+    color:#fff;
+    text-align: center;
+    padding: 5px 0;
+    width: 100%;
+    line-height: 30px;
+    font-size: 20px;
+}
+.header_top2{
+    position: relative;
+    background-color: #343434;
+    height: 30px;
+    color:#fff;
+    text-align: center;
+    padding: 5px 0;
+    width: 100%;
+    line-height: 30px;
+    font-size: 20px;
+}
+.header_top2 .layui-btn{
+    padding: 0 3px;
+}
+.return{
+    padding: 0 3px;
+    position: absolute;
+    left:0;
+    top:0;
+    background-color: rgba(0,0,0,0);
+}
+.return, .return i{
+    font-size: 18px;
+    height: 100%;
+    line-height: 30px;
+}
+.text_c{
+    text-align: center;
+}
+#text_l{
+    text-align: left;
+}
+.text_l{
+    text-align: left;
+}
+.warp{
+
+}
+

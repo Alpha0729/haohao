@@ -1,0 +1,38 @@
+.admin_index{
+    color:#333;
+}
+.por_top{
+    background-color: #f6f6f6;
+}
+
+.por_top .portrait{
+    border-radius: 20px;
+    background-color: #ccc;
+    width: 40px;
+    height: 40px;
+    padding: 1px;
+}
+.list_content{
+    padding:0 10px;
+}
+.list_content ul{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-top: 15px;
+    overflow:hidden;
+}
+.list_content li{
+    margin: -1px;
+    border-top:1px solid #ccc;
+    padding: 15px 0;
+    line-height: 25px;
+}
+.list_content li .list_content_head{
+    font-size:18px;
+}
+.list_content li .list_content_title{
+    color:#777;
+}
+.list_content li .list_content_icon{
+    line-height: 50px;float: right
+}

@@ -1,0 +1,47 @@
+body{
+    background-color: #fde9ed;
+}
+.my_tab{
+    text-align: center;
+    line-height: 250px;
+}
+.my_tab img{
+    width: 100%;
+}
+.my_nav{
+    padding:0 20px;
+}
+.my_nav .my_nav_left{
+    border:none;
+}
+.my_nav .my_nav_left a{}
+
+.my_nav .my_nav_left .layui-col-xs3{
+    border:1px solid #ffffff78;
+    margin-top: 2px;
+    border-radius:18px;
+    text-align: center;
+    display: inline-block;
+}
+.my_nav .my_nav_left .layui-col-xs3 img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    background-color: #cf101c;
+    color:#fff;
+}
+.footer .layui-row{
+    padding:10px 20px;
+}
+.footer .layui-col-xs6 img{
+    width: 15%;
+}
+.footer .layui-col-xs6 p{
+    margin-top: 10px;
+    color:#fff;
+}
